@@ -7,4 +7,4 @@ then
 max=$num
 fi
 done
-echo " the biggest numbers is $max"
+echo " The biggest numbers is $max"
