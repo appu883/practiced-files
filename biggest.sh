@@ -7,5 +7,6 @@ then
 max=$num
 fi
 
+
 done
 echo " the biggest number is $max"
